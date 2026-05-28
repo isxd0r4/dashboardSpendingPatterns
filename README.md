@@ -2,7 +2,7 @@
 Este repositório apresenta um dashboard interativo desenvolvido no **Power BI** com foco na análise do comportamento de compra e dos padrões de consumo de clientes. O projeto tem como objetivo transformar dados de consumo em insights estratégicos, permitindo identificar tendências de mercado, preferências de produtos e características do público consumidor.
 
 ## Fonte de dados
-O conjunto de dados utilizado neste projeto foi disponibilizado no Kaggle: [Customer Spending Patterns Dataset] (https://www.kaggle.com/datasets/ayeshaimran1619/customer-spending-patterns). O dataset reúne informações demográficas e comportamentais dos consumidores, incluindo colunas como: faixa etária dos clientes, preferências de cores, categorias de produtos adquiridos.
+O conjunto de dados utilizado neste projeto foi disponibilizado no Kaggle: [Customer Spending Patterns Dataset](https://www.kaggle.com/datasets/ayeshaimran1619/customer-spending-patterns). O dataset reúne informações demográficas e comportamentais dos consumidores, incluindo colunas como: faixa etária dos clientes, preferências de cores, categorias de produtos adquiridos.
 
 ## Estrutura do dashboard
 O dashboard foi desenvolvido em uma única página dinâmica e interativa, reunindo os principais indicadores relacionados ao perfil dos consumidores e aos padrões de consumo. Alguns dos gráficos:
